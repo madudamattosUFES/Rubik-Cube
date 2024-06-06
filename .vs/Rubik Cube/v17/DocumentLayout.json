@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\assets\\myassets\\scripts\\rotatecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\rotatecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\assets\\myassets\\scripts\\readcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\readcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|c:\\users\\maria\\onedrive\\documents\\unity\\rubik cube3\\rubik cube\\assets\\myassets\\scripts\\pivotrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\pivotrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\assets\\myassets\\scripts\\cubemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\cubemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\assets\\myassets\\scripts\\selectface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\selectface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\assets\\myassets\\scripts\\cubestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9A62E-8824-397B-D91A-13CF9EDF6543}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\cubestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube\\Assets\\MyAssets\\Scripts\\Automate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Automate.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube\\Assets\\MyAssets\\Scripts\\Automate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Rubik Cube\\Assets\\MyAssets\\Scripts\\Automate.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube\\Assets\\MyAssets\\Scripts\\Automate.cs",
+              "RelativeToolTip": "..\\..\\Rubik Cube\\Assets\\MyAssets\\Scripts\\Automate.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:20:25.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PivotRotation.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\PivotRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\PivotRotation.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\PivotRotation.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\PivotRotation.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAewCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:12:05.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotateCube.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\RotateCube.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\RotateCube.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\RotateCube.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\RotateCube.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAA7wEkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:15:09.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CubeState.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\CubeState.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\CubeState.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\CubeState.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\CubeState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:38:30.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadCube.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\ReadCube.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\ReadCube.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\ReadCube.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\ReadCube.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:23:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CubeMap.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\CubeMap.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\CubeMap.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\CubeMap.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\CubeMap.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA8wC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:51:52.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectFace.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\SelectFace.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\SelectFace.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documents\\UNity\\Rubik Cube3\\Rubik Cube\\Assets\\MyAssets\\Scripts\\SelectFace.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\SelectFace.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:15:09.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
